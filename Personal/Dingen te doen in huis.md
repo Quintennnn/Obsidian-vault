@@ -1,0 +1,3 @@
+- Kopen van bakken in action voor kleren
+- Kleerkast opruimen
+- Op zoek naar manier om kleren netjes te ordenen (rekken)
