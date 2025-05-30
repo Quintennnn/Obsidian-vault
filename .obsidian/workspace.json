@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Code-project ideen.md",
+                "file": "Work/Dagelijkse Notities/2025-05-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code-project ideen"
+              "title": "2025-05-30"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Code-project ideen.md",
+                "file": "Work/Dagelijkse Notities/2025-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Code-project ideen"
+              "title": "Backlinks for 2025-05-30"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Code-project ideen.md",
+                "file": "Work/Dagelijkse Notities/2025-05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Code-project ideen"
+              "title": "Outgoing links from 2025-05-30"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Code-project ideen.md",
+                "file": "Work/Dagelijkse Notities/2025-05-30.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Code-project ideen"
+              "title": "Outline of 2025-05-30"
             }
           }
         ]
@@ -212,11 +212,15 @@
   },
   "active": "b5092137b7abc363",
   "lastOpenFiles": [
+    "2025-05-30.md",
+    "Work/Dagelijkse Notities/2025-05-30.md",
+    "Work/Dagelijkse Notities/Untitled.canvas",
+    "Personal/Code-project ideen.md",
+    "Work/Dagelijkse Notities",
     "Personal/Interessante boeken.md",
     "Personal/Business Ideas.md",
     "Work/Hienfeld.md",
     "Untitled.md",
-    "Personal/Code-project ideen.md",
     "Work/Monitoring.md",
     "Process/IT Onboarding Checklist.md",
     "Work",
