@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hienfeld To Do list.md",
+                "file": "Hienfeld.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hienfeld To Do list"
+              "title": "Hienfeld"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hienfeld To Do list.md",
+                "file": "Dialoggroup Hunters Insurance Calculator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hienfeld To Do list"
+              "title": "Backlinks for Dialoggroup Hunters Insurance Calculator"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hienfeld To Do list.md",
+                "file": "Dialoggroup Hunters Insurance Calculator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hienfeld To Do list"
+              "title": "Outgoing links from Dialoggroup Hunters Insurance Calculator"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hienfeld To Do list.md",
+                "file": "Hienfeld.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hienfeld To Do list"
+              "title": "Outline of Hienfeld"
             }
           }
         ],
@@ -170,22 +170,27 @@
   },
   "active": "83f607045eb93fdf",
   "lastOpenFiles": [
-    "Personal/Interessante boeken.md",
+    "Hienfeld To Do list.md",
+    "CDK_Rekenbox.md",
+    "Dialoggroup Hunters Insurance Calculator.md",
+    "Backups",
+    "New folder",
     "Departments/💻 IT.md",
+    "Drone Quote calculator.md",
+    "Hienfeld.md",
+    "Monitoring.md",
+    "Statuspage.md",
+    "Departments/✅ Acceptance.md",
+    "Personal/Interessante boeken.md",
     "Departments/💰 Finance.md",
     "Process/IT Onboarding Checklist.md",
-    "Hienfeld To Do list.md",
-    "Hienfeld.md",
     "Departments/📝 Underwriting.md",
-    "Monitoring.md",
     "Departments/Untitled",
     "Untitled 1",
-    "Departments/✅ Acceptance.md",
     "Departments/Finance.md",
     "Process",
     "Departments",
     "Personal",
-    "Statuspage.md",
     "2025-05-28.md",
     "create a link.md",
     "().md"

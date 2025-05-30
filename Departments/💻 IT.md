@@ -1,24 +1,19 @@
 
 
 
-
-
 Notes and documentation related to the IT department.
 
 ## 🛠️ Infrastructure
-- Internal systems overview
-- Hosting and cloud services (e.g. AWS, Azure)
-- Backup and disaster recovery
+- [[CDK_Rekenbox]]
 
 ## 🔧 Tools & Services
-- Software in use
+- [[Monitoring]]
 - Authentication & access control
 - Internal tooling and automation
 
-## 📋 Processes
-- [[Process/IT Onboarding Checklist]]
-- [[Monitoring]]
-- Security protocols
+## 📋 Rekenbox
+- [[Drone Quote calculator]]
+- [[Dialoggroup Hunters Insurance Calculator]] 
 
 ## 📌 Key Notes
 - Known issues
