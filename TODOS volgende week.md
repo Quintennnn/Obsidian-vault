@@ -13,5 +13,3 @@ Gebruikers (master)
 
 Bedrijf kan 1 of meer polis hebben
 
-
-SSH key opzetten vpor neptununs

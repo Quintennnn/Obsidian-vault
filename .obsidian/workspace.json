@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Code-project ideen.md",
+                "file": "Work - Projects/Neptunus/TODOS 05-06-208.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code-project ideen"
+              "title": "TODOS 05-06-208"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Code-project ideen.md",
+                "file": "Work - Projects/Neptunus/TODOS 05-06-208.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Code-project ideen"
+              "title": "Outline of TODOS 05-06-208"
             }
           }
         ],
@@ -170,40 +170,42 @@
   },
   "active": "83f607045eb93fdf",
   "lastOpenFiles": [
-    "Personal/Business Ideas.md",
+    "Work - Projects/Aspen/Gegevensadministratie overview 05-06-2025.md",
+    "Work - Projects/Neptunus/TODOS 05-06-208.md",
+    "Work - Projects/Aspen/Meeting notes/5-6-2025.md",
+    "TODOS volgende week.md",
+    "Work - Projects/Aspen/Meeting notes",
+    "Work - Projects/Rekenbox/CDK/CDK_Rekenbox.md",
+    "Work - Projects/Rekenbox/CDK",
+    "Work - Projects/Rekenbox/Jagers/Dialoggroup Hunters Insurance Calculator.md",
+    "Work - Projects/Rekenbox/Jagers",
+    "Work - Projects/Rekenbox/Drone",
+    "Work - Projects/Rekenbox",
+    "Work - Projects/Rekenbox/Drone/Drone Quote calculator.md",
+    "Untitled 1.md",
+    "Work - Projects/Neptunus/Claude 3.7 draft based on codebase by copilot 4_6_2026.md",
+    "Work - Projects/Aspen",
+    "Work - Projects/Neptunus/First Claude draft 04_06_2025.md",
+    "Work - Projects/Neptunus",
+    "Work - Projects",
+    "Untitled.md",
     "Personal/Dingen te doen in huis.md",
+    "Personal/Code-project ideen.md",
+    "Personal/Business Ideas.md",
     "Personal/Regelen of uitzoeken.md",
     "Personal/Interessante boeken.md",
-    "CDK_Rekenbox.md",
-    "Personal/Code-project ideen.md",
-    "Work/Dagelijkse Notities/2025-05-30.md",
+    "Work - General/Dagelijkse Notities/2025-05-30.md",
     "Personal/Untitled.canvas",
-    "Work/Hienfeld.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "TODOS volgende week.md",
+    "Work - General/Hienfeld.md",
     "Personal/Dingen leren.md",
     "Departments/💻 IT.md",
     "Hienfeld.md",
-    "Work/Hienfeld To Do list.md",
-    "Work/Statuspage.md",
-    "Work/Monitoring.md",
-    "Work/Dagelijkse Notities",
-    "Work",
+    "Work - General/Hienfeld To Do list.md",
+    "Work - General/Statuspage.md",
+    "Work - General/Monitoring.md",
+    "Work - General/Dagelijkse Notities",
+    "Work - General",
     "Hienfeld To Do list.md",
-    "Dialoggroup Hunters Insurance Calculator.md",
-    "Backups",
-    "New folder",
-    "Drone Quote calculator.md",
-    "Monitoring.md",
-    "Statuspage.md",
-    "Departments/✅ Acceptance.md",
-    "Departments/💰 Finance.md",
-    "Process/IT Onboarding Checklist.md",
-    "Departments/Untitled",
-    "Untitled 1",
-    "Process",
-    "Departments",
-    "Personal"
+    "Monitoring.md"
   ]
 }
